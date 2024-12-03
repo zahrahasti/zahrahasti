@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi there! I'm Zahra, a passionate front-end web developer and optimization enthusiast fluent in Persian and English. While my primary goal is to consistently improve my skills and expand my knowledge, I currently work as a freelance web developer, creating seamless user experiences and fine-tuning website performance.
+<br /><br />
 
-<!--
-**zahrahasti/zahrahasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+#### Languages
+<img alt="Markdown, SVG, HTML, CSS, SCSS, JavaScript, and TypeScript" src="https://go-skill-icons.vercel.app/api/icons?i=md,svg,html,css,scss,js,ts" />
 
-Here are some ideas to get you started:
+#### Technologies
+<img alt="Tailwind CSS, Uno CSS, Astro, Vue.js, Nuxt.js, and REST APIs" src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,unocss,astro,vue,nuxt,api" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Testing Frameworks
+<img alt="Storybook, Vitest, Cypress, and Playwright" src="https://go-skill-icons.vercel.app/api/icons?i=storybook,vitest,cypress,playwright" />
+
+#### Tools
+<img alt="VS Code, Git, GitHub, Netlify, NPM, PNPM, and Vite" src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,netlify,npm,vite" />
+
+<br />
+
+## 👨🏻‍💻 About Me
+<ul>
+  <li>📄 <a download href="./Shayan Zamani CV.pdf">Download my résumé (PDF)</a></li>
+  <li>🌱 I’m currently learning Nuxt.js</li>
+  <li>💬 Ask me about front-end web development, performance improvement techniques, clean code, UX tips, and more!</li>
+</ul>
+<br />
+
+## 📊 GitHub Stats
+<span>
+  <figure>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShayanTheNerd&theme=dark&card_width=430" />
+  </figure>
+</span>
+&nbsp;
+<span>
+  <figure>
+    <img width="401" align="top" src="https://github-readme-stats.vercel.app/api?username=ShayanTheNerd&theme=dark&include_all_commits=true&count_private=true&rank_icon=github" />
+  </figure>
+</span>
