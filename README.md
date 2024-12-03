@@ -23,16 +23,4 @@ Hi there! I'm Zahra, a passionate front-end web developer and optimization enthu
   <li>💬 Ask me about front-end web development, performance improvement techniques, clean code, UX tips, and more!</li>
 </ul>
 <br />
-
-## 📊 GitHub Stats
-<span>
-  <figure>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShayanTheNerd&theme=dark&card_width=430" />
-  </figure>
-</span>
-&nbsp;
-<span>
-  <figure>
-    <img width="401" align="top" src="https://github-readme-stats.vercel.app/api?username=ShayanTheNerd&theme=dark&include_all_commits=true&count_private=true&rank_icon=github" />
-  </figure>
-</span>
+ 
