@@ -14,13 +14,3 @@ Hi there! I'm Zahra, a passionate front-end web developer and optimization enthu
 #### Tools
 <img alt="VS Code, Git, GitHub, Netlify, NPM, PNPM, and Vite" src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,netlify,npm,vite" />
 
-<br />
-
-## 👨🏻‍💻 About Me
-<ul>
-  <li>📄 <a download href="./Shayan Zamani CV.pdf">Download my résumé (PDF)</a></li>
-  <li>🌱 I’m currently learning Nuxt.js</li>
-  <li>💬 Ask me about front-end web development, performance improvement techniques, clean code, UX tips, and more!</li>
-</ul>
-<br />
- 
